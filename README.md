@@ -8,7 +8,7 @@ Simple Interest is commonly used in basic financial calculations such as short-t
 ---
 
 ## Formula Used
-Simple Interest is calculated using the formula:
+Smple Interest is calculated using the formula:
 
 Simple Interest = (Principal × Rate × Time) / 100
 
