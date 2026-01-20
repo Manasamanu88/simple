@@ -17,6 +17,8 @@ Where:
 - Rate (R) is the annual interest rate
 - Time (T) is the time period in years
 
+
+
 ---
 
 ## Example
@@ -28,7 +30,7 @@ If:
 Simple Interest = (1000 × 5 × 2) / 100 = 100
 
 ---
-
+error fixed
 ## Input
 - Principal amount
 - Rate of interest
