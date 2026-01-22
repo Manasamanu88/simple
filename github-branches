@@ -1,0 +1,3 @@
+git branch -vv
+  bug-fix-typo c193bad Fix typo in README
+* main         c193bad [origin/main: ahead 1] Fix typo in README
