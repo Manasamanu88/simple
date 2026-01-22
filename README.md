@@ -17,6 +17,7 @@ Where:
 - Rate (R) is the annual interest rate
 - Time (T) is the time period in years
 
+Fixed a small typo.
 
 
 
